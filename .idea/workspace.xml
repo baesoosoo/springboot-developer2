@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="20ebe9ee-09bf-4050-affa-2dd5d60d6c74" name="변경" comment="업데이트">
-      <change afterPath="$PROJECT_DIR$/.github/workflows/ci.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/workflows/ci.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/cicd.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -203,7 +203,7 @@
       <workItem from="1719729378981" duration="2755000" />
       <workItem from="1719733722010" duration="2977000" />
       <workItem from="1720333643217" duration="529000" />
-      <workItem from="1720425749003" duration="1686000" />
+      <workItem from="1720425749003" duration="2653000" />
     </task>
     <task id="LOCAL-00001" summary="업데이트">
       <option name="closed" value="true" />
